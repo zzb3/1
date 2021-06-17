@@ -1,9 +1,11 @@
 # 茄子社区最新下载地址（2021年6月15日更新）
 点击以下链接进入下载页：
-### [观众版下载](https://d.hnxkjqm.cn/v2/type/onelive)<br>
 
-主播版下载地址 
-### [主播版下载](https://d.hnxkjqm.cn/v2/type/ylivetool)<br>
+# 观众版下载
+### [https://d.hnxkjqm.cn/v2/type/onelive](https://d.hnxkjqm.cn/v2/type/onelive)<br>
+
+# 主播版下载 
+### [https://d.hnxkjqm.cn/v2/type/ylivetool](https://d.hnxkjqm.cn/v2/type/ylivetool)<br>
 
 茄子社区回家页简介
 专人不断更新，提供最新茄子社区下载地址
